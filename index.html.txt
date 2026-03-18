@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>VigyanBodh</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<h1>VigyanBodh</h1>
+
+<p>Smart way to convert curiosity into creation</p>
+
+</header>
+
+
+<nav>
+
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="courses.html">Courses</a>
+<a href="contact.html">Contact</a>
+
+</nav>
+
+
+<div class="hero">
+
+<div class="drop"></div>
+
+<h2>Welcome to VigyanBodh</h2>
+
+<p>
+
+Science | Biotechnology | AI | Medical Devices | Innovation
+
+</p>
+
+</div>
+
+
+<footer>
+
+© 2026 VigyanBodh
+
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Courses</title>
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Courses</h1>
+
+</header>
+
+<nav>
+
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="courses.html">Courses</a>
+<a href="contact.html">Contact</a>
+
+</nav>
+
+
+<div class="card">
+
+Biotechnology
+Bioinformatics
+Research Training
+Research Internship
+AI Learning  
+Science Projects  
+
+</div>
+
+<footer>
+
+© 2026 VigyanBodh
+
+</footer>
+
+</body>
+</html>
